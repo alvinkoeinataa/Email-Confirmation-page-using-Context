@@ -7,7 +7,8 @@ Daftar Library yang Digunakan :
 4. UseEffect
 5. UseNavigate
 
+
 Daftar Fitur dalam Project
-    Halaman awal = Registration Page
-    Halaman user = Email Confirmation Page
+  1.  Halaman awal = Registration Page
+  2.  Halaman user = Email Confirmation Page
 
